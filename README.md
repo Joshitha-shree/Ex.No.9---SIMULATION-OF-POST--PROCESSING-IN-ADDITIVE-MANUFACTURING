@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2025-05-06 at 15 43 32_c0f7427f](https://github.com/user-attachments/assets/d723683b-f11b-4fa6-b453-dfdf1e1b8efb)
+![WhatsApp Image 2025-05-06 at 15 43 46_533c7285](https://github.com/user-attachments/assets/7d07330b-c9c2-4355-a5cf-8ca93f13c0d2)
 
-### Name:
-### Register Number:
+
+### Name:joshitha shree bs
+### Register Number:212224230107
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
